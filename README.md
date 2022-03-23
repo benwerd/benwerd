@@ -1,5 +1,3 @@
-Right now I'm the Head of Engineering at [ForUsAll](https://forusall.com). I previously co-founded [Elgg](https://github.com/elgg/elgg) and [Known](https://github.com/idno/known), was Director of Investments at [Matter](https://matter.vc), and worked on [Unlock](https://github.com/unlock-protocol/unlock).
-
 [Read my blog / subscribe to my newsletter at werd.io](https://werd.io), or [follow me on Twitter at @benwerd](https://twitter.com/benwerd).
 
 <!--
