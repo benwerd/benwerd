@@ -1,4 +1,10 @@
-[Read my blog / subscribe to my newsletter at werd.io](https://werd.io), or [follow me on Twitter at @benwerd](https://twitter.com/benwerd).
+# Ben Werdmuller
+
+[Read my blog / subscribe to my newsletter at werd.io](https://werd.io), or [follow me on Mastodon at @ben@werd.social](https://werd.social/@ben).
+
+- Homepage: [werd.io](https://werd.io)
+- Work: [The 19th](https://19thnews.org)
+- Pronouns: he/him
 
 <!--
 **benwerd/benwerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
