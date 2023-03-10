@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Hey, Abby!](http://localhost:3000)
+<a href-"http://localhost:3000" referrerpolicy="unsafe-url"></a>
